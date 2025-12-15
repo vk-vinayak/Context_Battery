@@ -8,5 +8,6 @@
         },
         "nameOfCathodeAnodeElectrolyteMaterials":{
             "@id":"battery:nameOfCathodeAnodeElectrolyteMaterials"
+        }
     }
 }
