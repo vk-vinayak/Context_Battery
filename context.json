@@ -6,5 +6,7 @@
         "batteryChemistry":{
             "@id":"battery:batteryChemistry"
         }
+        "nameOfCathodeAnodeElectrolyteMaterials":{
+            "@id":"battery:nameOfCathodeAnodeElectrolyteMaterials"
     }
 }
