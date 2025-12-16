@@ -8,6 +8,75 @@
         },
         "nameOfCathodeAnodeElectrolyteMaterials":{
             "@id":"battery:nameOfCathodeAnodeElectrolyteMaterials"
+        },
+        "relatedIdentifiersOfCathodeAnodeElectrolyteMaterials":{
+            "@id":"battery:relatedIdentifiersOfCathodeAnodeElectrolyteMaterials"
+        },
+        "weightOfCathodeAnodeElectrolyteMaterials":{
+            "@id":"weightOfCathodeAnodeElectrolyteMaterials"
+        },
+        "initialInternalResistanceOfCell":{
+            "@id":"initialInternalResistanceOfCell"
+        },
+        "manualBatteryPackDisassembly":{
+            "@id":"manualBatteryPackDisassembly"
+        },
+        "sparePartsPostalAddress":{
+            "@id":"sparePartsPostalAddress"
+        },
+        "sparePartsEmailAddress":{
+            "@id":"sparePartsEmailAddress"
+        },
+        "sparePartsWebAddress":{
+            "@id":"sparePartsWebAddress"
+        },
+        "packSafetyMeasures":{
+            "@id":"packSafetyMeasures"
+        },
+        "partNumberOfComponents":{
+            "@id":"partNumberOfComponents"
+        },
+        "testReportResults":{
+            "@id":"testReportResults"
+        },
+         "manualBatteryRemoval":{
+            "@id":"manualBatteryRemoval"
+        },
+         "batteryStatus":{
+            "@id":"batteryStatus"
+        },
+        "capacityFade":{
+            "@id":"capacityFade"
+        },
+        "stateOfCharge":{
+            "@id":"stateOfCharge"
+        },
+        "powerCapabilityFade":{
+            "@id":"powerCapabilityFade"
+        },
+        "roundTripEnergyEfficiencyFade":{
+            "@id":"roundTripEnergyEfficiencyFade"
+        },
+        "numberOfChargeDischargeCycles":{
+            "@id":"numberOfChargeDischargeCycles"
+        },
+        "timeSpentInExtremeTempAboveBoundary":{
+            "@id":"timeSpentInExtremeTempAboveBoundary"
+        },
+        "timeSpentInExtremeTempBelowBoundary":{
+            "@id":"timeSpentInExtremeTempBelowBoundary"
+        },
+        "chargingTimeSpentInExtremeTempAboveBoundary":{
+            "@id":"chargingTimeSpentInExtremeTempAboveBoundary"
+        },
+         "chargingTimeSpentInExtremeTempBelowBoundary":{
+            "@id":"chargingTimeSpentInExtremeTempBelowBoundary"
+        },
+        "informationOnAccidentsByRepairer":{
+            "@id":"informationOnAccidentsByRepairer"
+        },
+        "informationOnAccidentsByInsuranceProvider":{
+            "@id":"informationOnAccidentsByInsuranceProvider"
         }
     }
 }
