@@ -77,6 +77,30 @@
         },
         "informationOnAccidentsByInsuranceProvider":{
             "@id":"informationOnAccidentsByInsuranceProvider"
+        },
+        "quantityOfRecycledCobalt":{
+            "@id":"quantityOfRecycledCobalt"
+        },
+        "quantityOfRecycledNickel":{
+            "@id":"quantityOfRecycledNickel"
+        },
+        "quantityOfRecycledLithium":{
+            "@id":"quantityOfRecycledLithium"
+        },
+        "quantityOfRecycledCopper":{
+            "@id":"quantityOfRecycledCopper"
+        },
+        "carbonFootprintOfRecyclingProcess":{
+            "@id":"carbonFootprintOfRecyclingProcess"
+        },
+        "concernedPartNumberList":{
+            "@id":"concernedPartNumberList"
+        },
+        "detailExplanationOfRepairEvent":{
+            "@id":"detailExplanationOfRepairEvent"
+        },
+        "postResaleStatus":{
+            "@id":"postResaleStatus"
         }
     }
 }
